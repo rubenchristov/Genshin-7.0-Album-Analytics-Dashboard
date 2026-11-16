@@ -6,6 +6,7 @@ The dashboard consists of two main pages: the first for "KPI's" and general over
   <img src="Dashboard_Page1.png" alt="Page 1 (Overview)" width="48%">
   <img src="Dashboard_Page2.png" alt="Page 2 (Detailed)" width="48%">
 </p>
+
 # Main Features
 1. Album KPI's
 2. Over time progression charts, with a Cumulative/Incremental dropdown option.
