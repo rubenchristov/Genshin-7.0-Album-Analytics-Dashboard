@@ -10,10 +10,10 @@ The dashboard consists of two main pages: the first for "KPI's" and general over
 5. More detailed lists for best performing songs, with a scroll bar to navigate through the full 102 tracks.
 6. Custom song comparison (up to 3) with line charts and side-by-side comparisons.
 7. Custom search filters, with a customizable category, subcategory, and time frame.
-8. 
+
 # Notes
 - No macros are used. All functionality is made using built-in formulas.
-- Data collection is taken directly from Spotify's stream counts and is updated manually.
+- Data collection is taken directly from Spotify's stream counts and is updated manually. The Excel file available in this repository is only a snapshot on 16 November 2026 and is not automatically synchronized with my local file.
 - Album's release date on Spotify on 14 September 2026, whereas data collection only began at 25 September 2026.
 
 Warning: This project was created using Excel 2021. Opening on Google Sheets or previous versions of Excel might cause the file to break.
